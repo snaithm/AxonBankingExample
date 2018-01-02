@@ -1,0 +1,7 @@
+logging:
+  level: INFO
+  loggers:
+    uk.gov.dvla.osl: DEBUG
+
+swagger:
+  resourcePackage: "gov.dvla.osl.EventSource.resources"

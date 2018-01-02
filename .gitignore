@@ -1,0 +1,30 @@
+# Exclude unneccessary files
+*.jar
+*.log
+library/*
+
+# Maven
+target/
+dependency-reduced-pom.xml
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# modules
+.gitmodules
+
+nb-configuration.xml
+atlassian-ide-plugin.xml
+
+logs
